@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+outputs/
+.venv/
+models/
+*.egg-info/
+.ipynb_checkpoints/
+ROADMAP.md
+paper_understanding.md
+watermark-lab3/
