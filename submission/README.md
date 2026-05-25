@@ -39,6 +39,7 @@ watermark/
 │   ├── ablation/           # 消融、鲁棒性、改进实验数据
 │   └── report/             # LaTeX 实验报告 (main.tex + main.pdf)
 ├── paper_understanding.md  # 论文精读笔记
+├── ROADMAP.md              # 全流程实验路线图
 ├── requirements.txt
 └── configs/                # YAML 配置文件
 ```
