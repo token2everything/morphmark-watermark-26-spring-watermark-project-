@@ -83,8 +83,6 @@ python scripts/evaluate.py --methods kgw,morphmark_exp --n_samples 50
 # 运行消融实验
 python scripts/ablation.py --suite gamma_kgw --n_samples 20
 
-# 编译实验报告
-cd outputs/report && tectonic main.tex
 ```
 
 ## 依赖
